@@ -1,0 +1,14 @@
+# required lib
+numpy==1.24.3
+pandas==2.0.1
+scikit-learn==1.2.2
+matplotlib==3.7.1
+# optional lib for data visualization
+seaborn==0.12.2
+# streamlit for web app
+streamlit==1.22.0
+# joblib for model persistence
+joblib==1.2.0
+# sklearn-extra for additional ML algorithms
+scikit-learn-extra==0.4.0  
+
